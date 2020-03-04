@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `Get the best talent for your Next project`,
   },
   plugins: [
     {
@@ -42,9 +42,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Data Science-blog - Web scraping tutorials and projects `,
+        short_name: `Data Science blog`,
+        description: `We pride ourselves as 1st kenyan data science blog that provides problem solving solutions in performing scraping, filtering and analysing data for profitable campaigns.`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
